@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AasthaGarg
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently focusing on Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on any software development projects
 - 📫 How to reach me aastha.garg1531@gmail.com
 
